@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+    font-family: Rubik, Arial;
+  }
+  
+  form {
+    text-align: center;
+    line-height: 30px;
+    height: 15%;
+    overflow: auto;
+  }
+  
+  form hr {
+    width: 15%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #overlay {
+    width: 80%;
+    margin: 3% auto;
+    height: 95vh;
+    background-color; 
+    border-radius: 40px;
+  }
+  
+  #logo {
+    height: 100px;
+    display: block;
+    margin: auto;
+  }
+  
+  
